@@ -1,0 +1,155 @@
+body{
+   margin: 0;
+   margin-left: 0;
+}
+
+/* cover */
+
+.cover{
+    position: relative;
+    background-image: url(./travel/travel-blogger-cover-1.jpg);
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:90% ;
+    
+}
+.on-cover{
+    position: absolute;
+    position: sticky;
+    display: inline-block;
+    width: 80%;
+    margin-top: -10px;
+    margin-left: 10%;
+   
+}
+
+
+.on-cover2{
+    position: absolute;
+    margin-top: 150px;
+    opacity: 60%;
+    border-radius: 35px;
+    margin-bottom: 0;
+    /* width: 100%; */
+    width: 1000px;
+
+    
+}
+
+ /* third sec */
+
+ .third-sec{
+    width: 100%;
+    height: 820px;
+    position: absolute;
+    background-color: #262931;
+    padding: 50px;
+    font-size: 20px;
+    margin: 30px;
+    margin-top: -1px;
+ }
+
+ .third-sec2{
+    padding: 20px;
+    padding-left: 10px;
+ }
+
+ /* fouth-section */
+
+ .sec4{
+    
+    width: 100%;
+    height: 610px;
+    background-color: azure;
+    margin-top: 723px;
+
+ }
+
+ /* fifth section */
+
+ .sec5{
+    background-color:#2f323a;
+    width: 100%;
+    height: 1800px;
+ }
+
+ /* cards */
+
+ .card-bg{
+   border-radius: 50px;
+   background-color: #2f323a;
+ }
+
+ .card-body{
+   background-color: lightcoral;
+ }
+
+
+
+ /* sixth section */
+
+ .sixth-sec{
+   /* background-image: url(./img/travel/discover.jpg); */
+   width: 100%;
+   height: 800px;
+   background-repeat: no-repeat;
+   image-resolution: 100%;
+   position: relative;
+   background-image: url(./travel/discover1.jpg);
+   background-size: cover;
+   margin-top: -48px;
+
+ }
+
+ 
+
+ .discover-button{
+   position: absolute;
+   margin-top: 250px;
+   
+ }
+
+ /* seventh sec */
+
+ .seventh-sec{
+   width: 100%;
+   height: 100%;
+   background-color: aliceblue;
+ }
+
+ 
+
+
+ /* footer */
+ .page-footer{
+   margin-top:-70px;
+ }
+
+ /* #natural-wonder{
+    position: relative;
+    overflow: hidden;
+ }
+
+
+
+
+ #iframevideo{
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    -webkit-transition: visibility 0s, opacity 0.5s linear; 
+    transition: visibility 0s, opacity 0.5s linear; 
+
+ }
+
+ #natural-wonder:hover{
+    cursor: pointer;
+ }
+
+ #natural-wonder:hover div{
+    visibility: visible;
+    opacity: 100%;
+    position: absolute;
+ } */
